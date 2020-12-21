@@ -1,6 +1,6 @@
 # Fathom Analytics Notifier
 
-A small stand-alone CLI app, built with [Laravel Zero](https://laravel-zero.com/), that notifies you about your websites performance using Fathom Analytics.
+A small stand-alone CLI app, built with [Laravel Zero](https://laravel-zero.com/), that notifies you about your websites performance using [Fathom Analytics](http://usefathom.com/).
 
 ![](https://beyondco.de/img/docs/fathom-notifier/img/demo.jpeg)
 
